@@ -1,0 +1,1 @@
+aplicación para vender productos online donde las empresas puedan registrarse y aparecer en un listado donde los clientes pulsando sobre la empresa pueadn ver la lista de productos y seleccionar el que les interese y pagar con cualquier método de pago existente
